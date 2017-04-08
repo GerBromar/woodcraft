@@ -1,3 +1,4 @@
+<?php error_reporting(0);?>
 <div class="container-fluid header">
 		<div class="col-md-4">
 			<div class="logo"><a href='index.php'><img src="icons/logo.png"/></a></div>
