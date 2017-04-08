@@ -1,0 +1,1 @@
+<div class="col-md-12 galleryHeader"><h4><?php echo $title?><h4></div>
